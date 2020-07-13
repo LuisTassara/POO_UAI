@@ -18,3 +18,13 @@ C:\Users\luis.abel.tassara\Documents\Facultad 2017-8\POO2020\Recital\Recital\obj
 C:\Users\luis.abel.tassara\Documents\Facultad 2017-8\POO2020\Recital\Recital\bin\Debug\Recital.exe.config
 C:\Users\luis.abel.tassara\Documents\Facultad 2017-8\POO2020\Recital\Recital\bin\Debug\Recital.exe
 C:\Users\luis.abel.tassara\Documents\Facultad 2017-8\POO2020\Recital\Recital\bin\Debug\Recital.pdb
+C:\DeveloperNet\POO_UAI\Recital\bin\Debug\Recital.exe.config
+C:\DeveloperNet\POO_UAI\Recital\bin\Debug\Recital.exe
+C:\DeveloperNet\POO_UAI\Recital\bin\Debug\Recital.pdb
+C:\DeveloperNet\POO_UAI\Recital\obj\Debug\Recital.csprojAssemblyReference.cache
+C:\DeveloperNet\POO_UAI\Recital\obj\Debug\Recital.Form1.resources
+C:\DeveloperNet\POO_UAI\Recital\obj\Debug\Recital.Properties.Resources.resources
+C:\DeveloperNet\POO_UAI\Recital\obj\Debug\Recital.csproj.GenerateResource.cache
+C:\DeveloperNet\POO_UAI\Recital\obj\Debug\Recital.csproj.CoreCompileInputs.cache
+C:\DeveloperNet\POO_UAI\Recital\obj\Debug\Recital.exe
+C:\DeveloperNet\POO_UAI\Recital\obj\Debug\Recital.pdb
